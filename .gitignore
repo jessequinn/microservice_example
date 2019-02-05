@@ -351,3 +351,5 @@ modules.xml
 .venv/
 
 # End of https://www.gitignore.io/api/flask,python,intellij,intellij+all,intellij+iml
+
+.idea/*.xml
